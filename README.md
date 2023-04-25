@@ -18,7 +18,7 @@
 ![Fiddler](https://img.shields.io/badge/-Fiddler-000000?style=for-the-badge&logo=progress)
 ![Charles_Proxy](https://img.shields.io/badge/-Charles%7FProxy-02C6D1?style=for-the-badge&logo=Charles)
 ![MySQL](https://img.shields.io/badge/-MySQL-E26D00?style=for-the-badge&logo=MySQL)
-![1C:Enterprise](https://img.shields.io/badge/-1C:Enterprise-F7D93E?style=for-the-badge&logo=1C)
+![1C:Enterprise](https://img.shields.io/badge/-1C-F7D93E?style=for-the-badge&logo=1C)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub)
 ![GitBash](https://img.shields.io/badge/-GitBash-D9D9D9?style=for-the-badge&logo=Git)
 ![C#](https://img.shields.io/badge/-С%23-964D92?style=for-the-badge&logo=csharp)

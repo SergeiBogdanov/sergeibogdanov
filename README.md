@@ -1,7 +1,9 @@
 ###### I am currently working on upgrading my GitHub...
 ![Header](https://github.com/SergeiBogdanov/sergeibogdanov/blob/main/assets/workoftesters2.jpg)
 
-## Sergei Bogdanov
+<h1>Sergei Bogdanov</h1>
+
+## About me:
 ### Hello 👋 I am a QA Engineer 👨‍💻 
 
 ## Languages and Tools:

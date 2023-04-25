@@ -1,7 +1,8 @@
 ###### I am currently working on upgrading my GitHub...
 ![Header](https://github.com/SergeiBogdanov/sergeibogdanov/blob/main/assets/workoftesters2.jpg)
 
-<h1>Sergei Bogdanov</h1>
+<body>
+<h1>Sergei Bogdanov | QA Engineer</h1>
 
 ## About me:
 ### Hello 👋 I am a QA Engineer 👨‍💻 
@@ -28,7 +29,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A63BC?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/sergei-bogdanov-qa/)
 [![HeadHunter](https://img.shields.io/badge/-Head_Hunter-CB0A10?style=for-the-badge&logo=HeadHunter)](https://hh.ru/resume/3b9f6945ff0b710dfc0039ed1f706c78694b39)
 [![Telegram](https://img.shields.io/badge/-Telegram-F7F7F7?style=for-the-badge&logo=Telegram)](https://t.me/SergeiBD)
-
+</body>
 
 <!--![DevTools](https://img.shields.io/badge/-DevTools-2D79F7?style=for-the-badge&logo=DevTools)-->
 <!--

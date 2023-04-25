@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Header](https://github.com/SergeiBogdanov/sergeibogdanov/blob/main/assets/workoftesters.jpg)
+![Header]
 
 About me
 

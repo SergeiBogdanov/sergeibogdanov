@@ -1,12 +1,10 @@
+###### I am currently working on upgrading my GitHub...
 ![Header](https://github.com/SergeiBogdanov/sergeibogdanov/blob/main/assets/workoftesters2.jpg)
 
-## About me:
-### Hello! My name is Sergei Bogdanov 👋
-### I am a QA Engineer 👨‍💻
-###### At the moment I am working on upgrading my GitHub
+## Sergei Bogdanov
+### Hello 👋 I am a QA Engineer 👨‍💻 
 
 ## Languages and Tools:
-
 ![Jira](https://img.shields.io/badge/-Jira-2684FF?style=for-the-badge&logo=Jira)
 ![Trello](https://img.shields.io/badge/-Trello-243655?style=for-the-badge&logo=Trello)
 ![TestRail](https://img.shields.io/badge/-TestRail-62BB75?style=for-the-badge&logo=TestRail)

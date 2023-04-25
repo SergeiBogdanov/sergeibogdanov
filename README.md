@@ -9,10 +9,9 @@
 ![Jira](https://img.shields.io/badge/-Jira-2684FF?style=for-the-badge&logo=Jira)
 ![Trello](https://img.shields.io/badge/-Trello-243655?style=for-the-badge&logo=Trello)
 ![TestRail](https://img.shields.io/badge/-TestRail-62BB75?style=for-the-badge&logo=TestRail)
-<!--![DevTools](https://img.shields.io/badge/-DevTools-2D79F7?style=for-the-badge&logo=DevTools)-->
 ![HTML5](https://img.shields.io/badge/-HTML5-4D4A4B?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-254BDD?style=for-the-badge&logo=css3)
-![Postman](https://img.shields.io/badge/-Postman-F7F7F7?style=for-the-badge&logo=Postman)
+![Postman](https://img.shields.io/badge/-Postman-E4E4E4?style=for-the-badge&logo=Postman)
 ![REST_API](https://img.shields.io/badge/-REST%7FAPI-00AFDF?style=for-the-badge&logo=RESTAPI)
 ![SoapUI](https://img.shields.io/badge/-SoapUI-F4D500?style=for-the-badge&logo=SoapUI)
 ![Android_Studio](https://img.shields.io/badge/-Android%7FStudio-072E40?style=for-the-badge&logo=androidstudio)
@@ -21,12 +20,12 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-E26D00?style=for-the-badge&logo=MySQL)
 ![1C:Enterprise](https://img.shields.io/badge/-1C:Enterprise-F7D93E?style=for-the-badge&logo=1C)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub)
-![GitBash](https://img.shields.io/badge/-GitBash-E4E4E4?style=for-the-badge&logo=Git)
+![GitBash](https://img.shields.io/badge/-GitBash-D9D9D9?style=for-the-badge&logo=Git)
 ![C#](https://img.shields.io/badge/-С%23-964D92?style=for-the-badge&logo=csharp)
 
 ## Socials:
 
-
+<!--![DevTools](https://img.shields.io/badge/-DevTools-2D79F7?style=for-the-badge&logo=DevTools)-->
 <!--
 **SergeiBogdanov/sergeibogdanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

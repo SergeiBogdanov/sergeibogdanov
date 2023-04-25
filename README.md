@@ -9,7 +9,7 @@
 ![Jira](https://img.shields.io/badge/-Jira-2684FF?style=for-the-badge&logo=Jira)
 ![Trello](https://img.shields.io/badge/-Trello-243655?style=for-the-badge&logo=Trello)
 ![TestRail](https://img.shields.io/badge/-TestRail-62BB75?style=for-the-badge&logo=TestRail)
-![DevTools](https://img.shields.io/badge/-DevTools-2D79F7?style=for-the-badge&logo=DevTools)
+<!--![DevTools](https://img.shields.io/badge/-DevTools-2D79F7?style=for-the-badge&logo=DevTools)-->
 ![HTML5](https://img.shields.io/badge/-HTML5-4D4A4B?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-254BDD?style=for-the-badge&logo=css3)
 ![Postman](https://img.shields.io/badge/-Postman-F7F7F7?style=for-the-badge&logo=Postman)

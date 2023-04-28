@@ -5,7 +5,7 @@
 
 ## About me:
 
-### Hello 👋 I am a QA Engineer 👨‍💻 
+Hello 👋 I am a QA Engineer 👨‍💻 
 
 ## Languages and Tools:
 ![Jira](https://img.shields.io/badge/-Jira-2684FF?style=for-the-badge&logo=Jira)

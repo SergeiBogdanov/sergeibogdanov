@@ -5,7 +5,9 @@
 
 ## About me:
 
-Hello 👋 I am a QA Engineer 👨‍💻 
+Hello 👋 
+
+I am a QA Engineer 👨‍💻 
 
 ## Languages and Tools:
 ![Jira](https://img.shields.io/badge/-Jira-2684FF?style=for-the-badge&logo=Jira)
@@ -47,4 +49,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Add line

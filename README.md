@@ -17,6 +17,8 @@ On my GitHub profile, I am going to share a collection of my personal projects, 
 
 For me, being a QA Engineer means having the perfect balance between my love of problem solving and my interest in technology. I really enjoy the process of discovering bugs and resolving them, especially when I'm in a team of people who are as ardent about their work as I am.
 
+## [Link to my CV](https://drive.google.com/file/d/16ZmM58bV5Prys2mx6Qb0qG3esscPizVf/view?usp=sharing)
+
 ## Languages and Tools:
 ![Jira](https://img.shields.io/badge/-Jira-2684FF?style=for-the-badge&logo=Jira)
 ![Trello](https://img.shields.io/badge/-Trello-243655?style=for-the-badge&logo=Trello)

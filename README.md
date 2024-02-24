@@ -22,21 +22,22 @@ For me, being a QA Engineer means having the perfect balance between my love of 
 ## Languages and Tools:
 ![Jira](https://img.shields.io/badge/-Jira-2684FF?style=for-the-badge&logo=Jira)
 ![Trello](https://img.shields.io/badge/-Trello-243655?style=for-the-badge&logo=Trello)
-![TestRail](https://img.shields.io/badge/-TestRail-62BB75?style=for-the-badge&logo=TestRail&logo=data:image/png;base64,)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-4D4A4B?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-254BDD?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-LightGrey?style=for-the-badge&logo=javascript)
+![MySQL](https://img.shields.io/badge/-MySQL-E26D00?style=for-the-badge&logo=MySQL)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub)
+![GitBash](https://img.shields.io/badge/-GitBash-D9D9D9?style=for-the-badge&logo=Git)
 ![Postman](https://img.shields.io/badge/-Postman-E4E4E4?style=for-the-badge&logo=Postman)
 ![REST_API](https://img.shields.io/badge/-REST%7FAPI-00AFDF?style=for-the-badge&logo=RESTAPI)
 ![SoapUI](https://img.shields.io/badge/-SoapUI-F4D500?style=for-the-badge&logo=SoapUI)
 ![Android_Studio](https://img.shields.io/badge/-Android%7FStudio-072E40?style=for-the-badge&logo=androidstudio)
 ![Fiddler](https://img.shields.io/badge/-Fiddler-000000?style=for-the-badge&logo=progress)
 ![Charles_Proxy](https://img.shields.io/badge/-Charles%7FProxy-02C6D1?style=for-the-badge&logo=Charles)
-![MySQL](https://img.shields.io/badge/-MySQL-E26D00?style=for-the-badge&logo=MySQL)
-![1C:Enterprise](https://img.shields.io/badge/-1C-F7D93E?style=for-the-badge&logo=1C)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub)
-![GitBash](https://img.shields.io/badge/-GitBash-D9D9D9?style=for-the-badge&logo=Git)
 ![C#](https://img.shields.io/badge/-С%23-964D92?style=for-the-badge&logo=csharp)
+![TestRail](https://img.shields.io/badge/-TestRail-62BB75?style=for-the-badge&logo=TestRail&logo=data:image/png;base64,)
+![1C:Enterprise](https://img.shields.io/badge/-1C-F7D93E?style=for-the-badge&logo=1C)
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A63BC?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/sergei-bogdanov-qa/)

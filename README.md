@@ -22,10 +22,9 @@ For me, being a QA Engineer means having the perfect balance between my love of 
 ## Languages and Tools:
 ![Jira](https://img.shields.io/badge/-Jira-2684FF?style=for-the-badge&logo=Jira)
 ![Trello](https://img.shields.io/badge/-Trello-243655?style=for-the-badge&logo=Trello)
-
 ![HTML5](https://img.shields.io/badge/-HTML5-4D4A4B?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-254BDD?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-LightGrey?style=for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-D3D3D3?style=for-the-badge&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-E26D00?style=for-the-badge&logo=MySQL)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub)
 ![GitBash](https://img.shields.io/badge/-GitBash-D9D9D9?style=for-the-badge&logo=Git)

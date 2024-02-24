@@ -25,7 +25,7 @@ For me, being a QA Engineer means having the perfect balance between my love of 
 ![TestRail](https://img.shields.io/badge/-TestRail-62BB75?style=for-the-badge&logo=TestRail&logo=data:image/png;base64,)
 ![HTML5](https://img.shields.io/badge/-HTML5-4D4A4B?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-254BDD?style=for-the-badge&logo=css3)
-![JavaScript]([https://img.shields.io/badge/logo-javascript-blue?logo=javascript](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript))
+![JavaScript](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript)
 ![Postman](https://img.shields.io/badge/-Postman-E4E4E4?style=for-the-badge&logo=Postman)
 ![REST_API](https://img.shields.io/badge/-REST%7FAPI-00AFDF?style=for-the-badge&logo=RESTAPI)
 ![SoapUI](https://img.shields.io/badge/-SoapUI-F4D500?style=for-the-badge&logo=SoapUI)

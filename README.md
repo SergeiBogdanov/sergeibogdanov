@@ -5,17 +5,15 @@
 
 ## About me:
 
-Hello 👋 
+Hello 👋
 
 I am a person with a huge desire to become a professional QA Engineer.
 
 I have a strong interest in learning new tools and techniques for testing, and I am always seeking out opportunities to enhance my knowledge and expertise in this field.
 
-In addition to my love for testing, I'm also interested in learning more about C# programming language, and I'm currently working on getting new knowledge in this area. I believe that having a solid foundation in programming is essential for any QA Engineer.
+In addition to my love for testing, I'm also interested in learning more about JavaScript, and I'm currently working on getting new knowledge in this area. I believe that having a solid foundation in programming is essential for any QA Engineer.
 
-On my GitHub profile, I am going to share a collection of my personal projects, as well as some of the interesting things I've learned along the way. I'm always eager to share my work and collaborate with others who share my passion for testing.
-
-For me, being a QA Engineer means having the perfect balance between my love of problem solving and my interest in technology. I really enjoy the process of discovering bugs and resolving them, especially when I'm in a team of people who are as ardent about their work as I am.
+In my GitHub profile, I intend to share a collection of my personal projects, ideas, and various learning materials encountered along my journey. I'm always eager to share my work and collaborate with those who share my interests.
 
 #### [Link to my CV](https://drive.google.com/file/d/16ZmM58bV5Prys2mx6Qb0qG3esscPizVf/view?usp=sharing)
 

@@ -15,7 +15,7 @@ In addition to my love for testing, I'm also interested in learning more about J
 
 In my GitHub profile, I intend to share a collection of my personal projects, ideas, and various learning materials encountered along my journey. I'm always eager to share my work and collaborate with those who share my interests.
 
-#### [Link to my CV](https://drive.google.com/file/d/15kfBRhPKT9W8VgA9KKXpjbaI5Udsz0H0/view?usp=sharing)
+#### [Link to my CV](https://drive.google.com/file/d/1ZWwEhnhvcJ1AzAmsm_pU1qptLIr4_Jkg/view?usp=sharing)
 
 ## Languages and Tools:
 ![Jira](https://img.shields.io/badge/-Jira-2684FF?style=for-the-badge&logo=Jira)
